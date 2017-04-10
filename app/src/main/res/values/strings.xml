@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExplicitIntent</string>
+    <string name="mail"></string>
+    <string name="subject"></string>
+    <string name="envio"></string>
+    <string name="text">Texto de Prueba</string>
+</resources>
